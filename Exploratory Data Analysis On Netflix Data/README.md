@@ -9,7 +9,6 @@ The Netflix dataset offers a window into the vast world of streaming entertainme
 # ❀  Repository Overview  ❀
 This repository is about EDA performed on the Netflix.
    - It has a python notebook where all the coding has been done.
-   - It also has the relevant datasets and files used for this analysis.
      
 # ❀  Technologies Used  ❀
 * Python
