@@ -1,5 +1,6 @@
 # Exploratory Analysis on Netflix Data
-![image](https://github.com/stha1122/Data_Analytics_Project/assets/122188963/e1fcc936-8fb3-42db-b71f-f36adca6e76d)<br>
+![image](https://github.com/stha1122/Data_Analytics_Project/assets/122188963/73bb5937-aeb7-4857-b3cb-4114478ad51a)
+ <br>
 # ❀  Netflix  ❀
 Netflix is an American subscription video on-demand over-the-top streaming service owned and operated by Netflix, Inc. The service primarily distributes films and television series produced by the media company of the same name from various genres, and it is available internationally in multiple languages.
 
